@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariamv29
+- 👋 Hi, I’m Maria Mireles
 - 👀 I’m interested in learning more about computer science, taking on new challenges. 
 - 📫 How to reach me mireles335@gmail.com, 
 
