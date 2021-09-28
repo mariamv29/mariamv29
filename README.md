@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria Mireles
-- 👀 I’m interested in learning more about computer science, taking on new challenges. 
+- 👀 I’m interested in learning more about coding, and taking on new challenges. 
 - 📫 How to reach me mireles335@gmail.com, https://www.linkedin.com/in/maria-mireles-7b7b27210/ 
 
 <!---
