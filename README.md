@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maria Mireles
-- 👀 I’m a full stack web develop based in Austin Texas.  
+- 👀 I’m a full stack web developer with a passion in coding. I am based in Austin Texas and ready to take on new challenges. 
 - 📫 How to reach me mireles335@gmail.com, https://www.linkedin.com/in/maria-mireles-7b7b27210/ 
 
 <!---
